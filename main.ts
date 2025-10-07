@@ -1,3 +1,3 @@
 basic.forever(function () {
-    RingbitCar.forward()
+    RingbitCar.running_time(RingbitCar.Direction_run.forward, 6)
 })
